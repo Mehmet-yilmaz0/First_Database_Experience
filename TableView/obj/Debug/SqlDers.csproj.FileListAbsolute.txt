@@ -1,0 +1,30 @@
+C:\Users\musap\Desktop\veriTabanı\SqlDers\bin\Debug\SqlDers.exe.config
+C:\Users\musap\Desktop\veriTabanı\SqlDers\bin\Debug\SqlDers.exe
+C:\Users\musap\Desktop\veriTabanı\SqlDers\bin\Debug\SqlDers.pdb
+C:\Users\musap\Desktop\veriTabanı\SqlDers\obj\Debug\SqlDers.csproj.AssemblyReference.cache
+C:\Users\musap\Desktop\veriTabanı\SqlDers\obj\Debug\SqlDers.Properties.Resources.resources
+C:\Users\musap\Desktop\veriTabanı\SqlDers\obj\Debug\SqlDers.csproj.GenerateResource.cache
+C:\Users\musap\Desktop\veriTabanı\SqlDers\obj\Debug\SqlDers.csproj.CoreCompileInputs.cache
+C:\Users\musap\Desktop\veriTabanı\SqlDers\obj\Debug\SqlDers.exe
+C:\Users\musap\Desktop\veriTabanı\SqlDers\obj\Debug\SqlDers.pdb
+C:\Users\musap\Desktop\veriTabanı\SqlDers\obj\Debug\SqlDers.Front.resources
+C:\Users\asus\Desktop\c# Genel Tekrar\SqlDers\bin\Debug\SqlDers.exe.config
+C:\Users\asus\Desktop\c# Genel Tekrar\SqlDers\bin\Debug\SqlDers.exe
+C:\Users\asus\Desktop\c# Genel Tekrar\SqlDers\bin\Debug\SqlDers.pdb
+C:\Users\asus\Desktop\c# Genel Tekrar\SqlDers\obj\Debug\SqlDers.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\c# Genel Tekrar\SqlDers\obj\Debug\SqlDers.Front.resources
+C:\Users\asus\Desktop\c# Genel Tekrar\SqlDers\obj\Debug\SqlDers.Properties.Resources.resources
+C:\Users\asus\Desktop\c# Genel Tekrar\SqlDers\obj\Debug\SqlDers.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\c# Genel Tekrar\SqlDers\obj\Debug\SqlDers.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\c# Genel Tekrar\SqlDers\obj\Debug\SqlDers.exe
+C:\Users\asus\Desktop\c# Genel Tekrar\SqlDers\obj\Debug\SqlDers.pdb
+C:\Users\asus\Desktop\TableView\bin\Debug\SqlDers.exe.config
+C:\Users\asus\Desktop\TableView\bin\Debug\SqlDers.exe
+C:\Users\asus\Desktop\TableView\bin\Debug\SqlDers.pdb
+C:\Users\asus\Desktop\TableView\obj\Debug\SqlDers.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\TableView\obj\Debug\SqlDers.Front.resources
+C:\Users\asus\Desktop\TableView\obj\Debug\SqlDers.Properties.Resources.resources
+C:\Users\asus\Desktop\TableView\obj\Debug\SqlDers.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\TableView\obj\Debug\SqlDers.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\TableView\obj\Debug\SqlDers.exe
+C:\Users\asus\Desktop\TableView\obj\Debug\SqlDers.pdb
